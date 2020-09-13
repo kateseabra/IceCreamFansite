@@ -1,0 +1,23 @@
+body {
+  background: papayawhip;
+}
+
+h1 {
+ color : pink;
+ font-size: 50px;
+}
+
+.benjerry {
+  color: hotpink;
+}
+
+.hagendazs {
+  color: mediumseagreen;
+}
+
+img:hover {
+  background: pink;
+  border-radius: 50%;
+  width: 20%;
+  height: 20%;
+}
